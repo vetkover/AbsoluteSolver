@@ -5,3 +5,5 @@ I found a way to get NT AUTHORITY/SYSTEM rights, now if I find a way how to impl
 # 5/30/2023
 ![screenshot](https://github.com/vetkover/AbsoluteSolver/blob/main/image.png?raw=true)
 the service with system rights became available to me, now I need to understand how to make the system environment application interact with the user environment (without using the file system for application communication :/ )
+# 5/31/2023
+These two environments cannot be friends (even through dll) I'll try to find a way to create a safe environment for the application to work through the registry -_-
