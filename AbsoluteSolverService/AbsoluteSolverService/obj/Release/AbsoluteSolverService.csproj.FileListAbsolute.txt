@@ -1,0 +1,8 @@
+C:\Users\VETKO\source\repos\AbsoluteSolverService\AbsoluteSolverService\bin\Release\AbsoluteSolverService.exe.config
+C:\Users\VETKO\source\repos\AbsoluteSolverService\AbsoluteSolverService\bin\Release\AbsoluteSolverService.exe
+C:\Users\VETKO\source\repos\AbsoluteSolverService\AbsoluteSolverService\bin\Release\AbsoluteSolverService.pdb
+C:\Users\VETKO\source\repos\AbsoluteSolverService\AbsoluteSolverService\obj\Release\AbsoluteSolverService.csproj.AssemblyReference.cache
+C:\Users\VETKO\source\repos\AbsoluteSolverService\AbsoluteSolverService\obj\Release\AbsoluteSolverService.csproj.SuggestedBindingRedirects.cache
+C:\Users\VETKO\source\repos\AbsoluteSolverService\AbsoluteSolverService\obj\Release\AbsoluteSolverService.csproj.CoreCompileInputs.cache
+C:\Users\VETKO\source\repos\AbsoluteSolverService\AbsoluteSolverService\obj\Release\AbsoluteSolverService.exe
+C:\Users\VETKO\source\repos\AbsoluteSolverService\AbsoluteSolverService\obj\Release\AbsoluteSolverService.pdb

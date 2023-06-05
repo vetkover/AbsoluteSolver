@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "YLZF1Ls+fSH4xYEDeJc3AnK/LCwH1MRfn3/KXpYNzMKZz4R3jrf6SjVX3sRBz4rQBY4+yEt5Vr1GpiShhsgLyg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\VETKO\\source\\repos\\AbsoluteSolver\\AbsoluteSolver\\AbsoluteSolver.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\VETKO\\.nuget\\packages\\system.codedom\\7.0.0\\system.codedom.7.0.0.nupkg.sha512",
+    "C:\\Users\\VETKO\\.nuget\\packages\\system.diagnostics.eventlog\\7.0.0\\system.diagnostics.eventlog.7.0.0.nupkg.sha512",
+    "C:\\Users\\VETKO\\.nuget\\packages\\system.management\\7.0.1\\system.management.7.0.1.nupkg.sha512",
+    "C:\\Users\\VETKO\\.nuget\\packages\\system.serviceprocess.servicecontroller\\7.0.0\\system.serviceprocess.servicecontroller.7.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
