@@ -2,6 +2,9 @@
 AbsoluteSolver - easier access to Windows system permission level 
 #
 I found a way to get NT AUTHORITY/SYSTEM rights, now if I find a way how to implement it without other side loaders then there will be an application ^-^
+# 6/05/2023
+![screenshot](https://github.com/vetkover/AbsoluteSolver/blob/main/Screenshot%202023-06-05%20021412.png?raw=true)
+It begin seems to work just how I was expected it to.
 # 6/03/2023
 ![screenshot](https://raw.githubusercontent.com/vetkover/AbsoluteSolver/d0f261362dbffe2c7d9814a6079a97cb4f9de77a/image.png)
 little by little the process moves between matches in warzone :>
